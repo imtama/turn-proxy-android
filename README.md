@@ -1,3 +1,6 @@
+> **Канал разработчика удалён, что с ним самим — неизвестно. Это зеркало проекта.**
+> Telegram: [t.me/+YcfeawdZHDtmYzNi](https://t.me/+YcfeawdZHDtmYzNi)
+
 <div align="center">
 
 [![Core](https://img.shields.io/badge/Core-free--turn--proxy-blue?logo=github&logoColor=white)](https://github.com/hackdiaz-dev/free-turn-proxy)
